@@ -1,0 +1,12 @@
+{
+  "Workflows": [
+    {
+      "Path": "corona_classic.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
